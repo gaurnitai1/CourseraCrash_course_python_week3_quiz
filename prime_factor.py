@@ -1,3 +1,4 @@
+# This logic is used to find of the prime factor of given number
 #!/usr/bin/env python3
 def print_prime_factor(num):
  i=1
