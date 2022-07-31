@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+"""The even_numbers function returns a space-separated string of all
+positive numbers that are divisible by 2,
+up to and including the maximum that's passed into the function. F
+or example, even_numbers(6) returns “2 4 6”"""
+for x in range(num):
+  x%2==0
+  print(x)
